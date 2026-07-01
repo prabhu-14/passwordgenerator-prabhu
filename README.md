@@ -1,4 +1,4 @@
-# synent-task4-passwordgenerator-prabhu
+# passwordgenerator-prabhu
 🔐 Task4 : Password Generator(CLI)
 - A simple and secure Command Line Password generator built with python
 - This project generates strong random passwords.
